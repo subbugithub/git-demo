@@ -2,6 +2,7 @@
 
 This can be some sort of a Help file. Generally we find these files with newly installed software and contains some help content.
 
-##Some more text
+##HTML file added.
 
-We are going to add some more text. That's it. No more.
+HTML file added with some default text.
+
